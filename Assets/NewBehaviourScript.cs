@@ -8,6 +8,9 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         
+    Debug.Log("ok lets go");
+
+
     }
 
     
